@@ -1,6 +1,10 @@
 export default function LoadingSpinner() {
   return (
-    <div clasName="lds-ring">
+    <div class="lds-roller">
+      <div></div>
+      <div></div>
+      <div></div>
+      <div></div>
       <div></div>
       <div></div>
       <div></div>
