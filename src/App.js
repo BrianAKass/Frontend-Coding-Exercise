@@ -26,8 +26,6 @@ export default function App() {
       return a.listId - b.listId;
     });
 
-    console.log(`data:${data.length}`);
-    console.log(`newData:${newData.length}`);
     setTimeout(() => {
       setLoaded(true);
     }, 1500); /// timer is there for demonstrating lading animation features

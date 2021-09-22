@@ -1,6 +1,6 @@
 export default function Background() {
   return (
-    <div class="custom-shape-divider-top-1632345769">
+    <div className="custom-shape-divider-top-1632345769">
       <svg
         xmlns="http://www.w3.org/2000/svg"
         width="100vw"

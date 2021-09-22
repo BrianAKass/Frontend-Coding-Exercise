@@ -1,6 +1,6 @@
 export default function Bubbles() {
   return (
-    <ul class="bubbles">
+    <ul className="bubbles">
       <li></li>
       <li></li>
       <li></li>
