@@ -28,7 +28,7 @@ export default function App() {
 
     setTimeout(() => {
       setLoaded(true);
-    }, 1500); /// timer is there for demonstrating lading animation features
+    }, 1500); /// timer is there for demonstrating loading animation features
     setState([...newData]);
   };
 
